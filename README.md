@@ -2,6 +2,9 @@
 
 This is the source code for the CVPR'20 paper "Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network".
 
+## Warn
+add the code for save the model file to test
+
 ## Dependencies
 
 - Python 3.6+
